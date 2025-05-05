@@ -1,0 +1,35 @@
+INFO:     Will watch for changes in these directories: ['/workspace/react-agent']
+INFO:     Uvicorn running on http://0.0.0.0:58011 (Press CTRL+C to quit)
+INFO:     Started reloader process [1017] using WatchFiles
+INFO:     Started server process [1053]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:44892 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44904 - "POST /research/start HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44892 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43804 - "POST /research/start HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44892 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40692 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42646 - "GET /health HTTP/1.1" 404 Not Found
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57798 - "GET / HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1053]
+INFO:     Stopping reloader process [1017]
