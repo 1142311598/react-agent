@@ -1,0 +1,21 @@
+{
+  "topic": "TikTok\u5c01\u7981\u4e8b\u4ef6\u6700\u65b0\u8fdb\u5c55",
+  "subtopics": [
+    {
+      "name": "TikTok\u5c01\u7981\u4e8b\u4ef6\u6700\u65b0\u8fdb\u5c55 Overview",
+      "tasks": [
+        {
+          "id": "task-1",
+          "description": "Research TikTok\u5c01\u7981\u4e8b\u4ef6\u6700\u65b0\u8fdb\u5c55 basics",
+          "tools": [
+            "tavily"
+          ],
+          "status": "completed",
+          "result": "Mock research summary about: Research TikTok\u5c01\u7981\u4e8b\u4ef6\u6700\u65b0\u8fdb\u5c55 basics"
+        }
+      ]
+    }
+  ],
+  "status": "completed",
+  "created_at": "2025-05-05T07:28:54.767305"
+}

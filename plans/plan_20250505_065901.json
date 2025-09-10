@@ -1,0 +1,144 @@
+{
+  "topic": "TikTok\u5c01\u7981\u4e8b\u4ef6\u6700\u65b0\u8fdb\u5c55 2025\u5e745\u6708",
+  "created_at": "2025-05-01T00:00:00Z",
+  "status": "in_progress",
+  "main_questions": [
+    "What are the latest developments in the TikTok ban as of May 2025?",
+    "What are the legal and political implications of the TikTok ban in 2025?",
+    "How are different countries responding to the TikTok ban in 2025?",
+    "What are the economic impacts of the TikTok ban on businesses and creators?",
+    "What are the public reactions and social media trends related to the TikTok ban in 2025?"
+  ],
+  "subtopics": [
+    {
+      "name": "Legal and Political Developments",
+      "description": "Explore the latest legal rulings, government statements, and political debates surrounding the TikTok ban.",
+      "tasks": [
+        {
+          "id": "task-1",
+          "description": "Compile recent legal documents and court rulings related to the TikTok ban.",
+          "status": "pending",
+          "estimated_time": "3 hours"
+        },
+        {
+          "id": "task-2",
+          "description": "Summarize statements from key political figures and government agencies.",
+          "status": "pending",
+          "estimated_time": "2 hours"
+        },
+        {
+          "id": "task-3",
+          "description": "Analyze the potential long-term political implications of the ban.",
+          "status": "pending",
+          "estimated_time": "4 hours"
+        }
+      ]
+    },
+    {
+      "name": "International Responses",
+      "description": "Investigate how different countries are reacting to the TikTok ban and their own policies regarding the app.",
+      "tasks": [
+        {
+          "id": "task-4",
+          "description": "Gather data on countries that have implemented similar bans or restrictions.",
+          "status": "pending",
+          "estimated_time": "3 hours"
+        },
+        {
+          "id": "task-5",
+          "description": "Compare the responses of major economies (e.g., EU, China, India).",
+          "status": "pending",
+          "estimated_time": "3 hours"
+        },
+        {
+          "id": "task-6",
+          "description": "Interview experts on international relations and digital policy.",
+          "status": "pending",
+          "estimated_time": "5 hours"
+        }
+      ]
+    },
+    {
+      "name": "Economic Impact",
+      "description": "Assess the financial consequences of the TikTok ban on businesses, advertisers, and content creators.",
+      "tasks": [
+        {
+          "id": "task-7",
+          "description": "Collect statistics on revenue losses for businesses and creators.",
+          "status": "pending",
+          "estimated_time": "2 hours"
+        },
+        {
+          "id": "task-8",
+          "description": "Analyze the shift in advertising budgets to other platforms.",
+          "status": "pending",
+          "estimated_time": "3 hours"
+        },
+        {
+          "id": "task-9",
+          "description": "Survey small businesses and creators affected by the ban.",
+          "status": "pending",
+          "estimated_time": "4 hours"
+        }
+      ]
+    },
+    {
+      "name": "Public Reaction and Social Media Trends",
+      "description": "Examine how the public is responding to the ban and the trends emerging on other social media platforms.",
+      "tasks": [
+        {
+          "id": "task-10",
+          "description": "Monitor hashtags and trends related to the ban on platforms like Twitter and Instagram.",
+          "status": "pending",
+          "estimated_time": "2 hours"
+        },
+        {
+          "id": "task-11",
+          "description": "Conduct a sentiment analysis of public opinion using social media data.",
+          "status": "pending",
+          "estimated_time": "4 hours"
+        },
+        {
+          "id": "task-12",
+          "description": "Interview influencers and content creators about their adaptation strategies.",
+          "status": "pending",
+          "estimated_time": "3 hours"
+        }
+      ]
+    },
+    {
+      "name": "Technological and Platform Shifts",
+      "description": "Explore how the ban is affecting the tech landscape and the rise of alternative platforms.",
+      "tasks": [
+        {
+          "id": "task-13",
+          "description": "Research the growth of competing platforms (e.g., Reels, YouTube Shorts).",
+          "status": "pending",
+          "estimated_time": "3 hours"
+        },
+        {
+          "id": "task-14",
+          "description": "Analyze any technological workarounds or VPN usage spikes.",
+          "status": "pending",
+          "estimated_time": "2 hours"
+        },
+        {
+          "id": "task-15",
+          "description": "Interview tech experts about the future of short-form video apps.",
+          "status": "pending",
+          "estimated_time": "4 hours"
+        }
+      ]
+    }
+  ],
+  "progress": 0,
+  "current_step": "research",
+  "required_resources": [
+    "Access to legal databases (e.g., Westlaw, LexisNexis)",
+    "Government and regulatory agency reports",
+    "Social media analytics tools (e.g., Brandwatch, Hootsuite)",
+    "Interviews with experts and affected parties",
+    "Economic reports and market analysis",
+    "News articles and press releases"
+  ]
+}

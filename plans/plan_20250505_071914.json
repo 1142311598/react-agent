@@ -1,0 +1,21 @@
+{
+  "topic": "\u6d4b\u8bd5\u591aAgent\u7cfb\u7edf",
+  "subtopics": [
+    {
+      "name": "\u6d4b\u8bd5\u591aAgent\u7cfb\u7edf Overview",
+      "tasks": [
+        {
+          "id": "task-1",
+          "description": "Research \u6d4b\u8bd5\u591aAgent\u7cfb\u7edf basics",
+          "tools": [
+            "tavily"
+          ],
+          "status": "completed",
+          "result": "Found relevant research papers"
+        }
+      ]
+    }
+  ],
+  "status": "completed",
+  "created_at": "2025-05-05T07:19:14.968114"
+}

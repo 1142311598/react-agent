@@ -1,0 +1,1020 @@
+INFO:     Will watch for changes in these directories: ['/workspace/react-agent']
+INFO:     Uvicorn running on http://0.0.0.0:58011 (Press CTRL+C to quit)
+INFO:     Started reloader process [1637] using WatchFiles
+INFO:     Started server process [1642]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:34946 - "GET / HTTP/1.1" 200 OK
+[DEBUG] Starting research project on topic: 最终测试研究流程
+INFO:     172.17.0.1:34946 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:34946 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:34946 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:34946 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37564 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37564 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37564 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37564 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37564 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:50996 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:50996 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:50996 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53656 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53656 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53656 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53656 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:42906 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:42906 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:42906 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:33610 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:33610 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:33610 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:55878 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:55878 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:55878 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:55878 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:40496 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:40496 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:40496 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:54612 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:54612 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:54612 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/planning_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1642]
+INFO:     Started server process [1748]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:42076 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:42076 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/planning_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1748]
+INFO:     Started server process [1749]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:42082 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:42686 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:42686 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:42686 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57506 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57506 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57506 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48910 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48910 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/planning_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1749]
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 131, in _main
+    prepare(preparation_data)
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 244, in prepare
+    _fixup_main_from_name(data['init_main_from_name'])
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 268, in _fixup_main_from_name
+    main_content = runpy.run_module(mod_name,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 226, in run_module
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/react-agent/src/server.py", line 11, in <module>
+    from src.api import app as api_app
+  File "/workspace/react-agent/src/api.py", line 16, in <module>
+    from src.agents.orchestrator_agent import OrchestratorAgent
+  File "/workspace/react-agent/src/agents/orchestrator_agent.py", line 10, in <module>
+    from src.agents.planning_agent import PlanningAgent
+ImportError: cannot import name 'PlanningAgent' from 'src.agents.planning_agent' (/workspace/react-agent/src/agents/planning_agent.py)
+WARNING:  WatchFiles detected changes in 'src/agents/planning_agent.py'. Reloading...
+INFO:     Started server process [1899]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:48916 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/planning_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1899]
+INFO:     Started server process [2052]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:47726 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/research_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2052]
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 131, in _main
+    prepare(preparation_data)
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 244, in prepare
+    _fixup_main_from_name(data['init_main_from_name'])
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 268, in _fixup_main_from_name
+    main_content = runpy.run_module(mod_name,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 226, in run_module
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/react-agent/src/server.py", line 11, in <module>
+    from src.api import app as api_app
+  File "/workspace/react-agent/src/api.py", line 16, in <module>
+    from src.agents.orchestrator_agent import OrchestratorAgent
+  File "/workspace/react-agent/src/agents/orchestrator_agent.py", line 11, in <module>
+    from src.agents.research_agent import ResearchAgent
+ModuleNotFoundError: No module named 'src.agents.research_agent'
+WARNING:  WatchFiles detected changes in 'src/agents/research_agent.py'. Reloading...
+INFO:     Started server process [2250]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44180 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:57366 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/research_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2250]
+INFO:     Started server process [2511]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2511]
+INFO:     Started server process [2658]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48038 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2658]
+INFO:     Started server process [2732]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53250 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2732]
+INFO:     Started server process [2932]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39542 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2932]
+INFO:     Started server process [3102]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:43944 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3102]
+INFO:     Started server process [3260]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:53792 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53792 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53792 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53792 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53792 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53792 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:53792 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3260]
+INFO:     Started server process [3334]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48928 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3334]
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 131, in _main
+    prepare(preparation_data)
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 244, in prepare
+    _fixup_main_from_name(data['init_main_from_name'])
+  File "/openhands/micromamba/envs/openhands/lib/python3.12/multiprocessing/spawn.py", line 268, in _fixup_main_from_name
+    main_content = runpy.run_module(mod_name,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 226, in run_module
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/react-agent/src/server.py", line 11, in <module>
+    from src.api import app as api_app
+  File "/workspace/react-agent/src/api.py", line 16, in <module>
+    from src.agents.orchestrator_agent import OrchestratorAgent
+  File "/workspace/react-agent/src/agents/orchestrator_agent.py", line 12, in <module>
+    from src.agents.report_agent import ReportAgent
+  File "/workspace/react-agent/src/agents/report_agent.py", line 117
+    print(f"\n=== Report Prompt ===\n{report_prompt}\n=== End Prompt ===")
+SyntaxError: expected 'except' or 'finally' block
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Started server process [3528]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60958 - "GET / HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'src/agents/report_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3528]
+INFO:     Started server process [3631]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:48244 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
+INFO:     172.17.0.1:44502 - "GET / HTTP/1.1" 200 OK
